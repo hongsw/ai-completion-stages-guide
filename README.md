@@ -38,6 +38,7 @@
 
 - **처음 보는 사람**: `docs/guide.ko.md`
 - **영문 독자**: `docs/guide.en.md`
+- **레벨별 실습 로드맵**: `docs/levels.ko.md`
 - **언어별 번역 진입점**: `docs/LANGUAGES.md`
 - **실습 체크리스트**: `docs/checklist.ko.md`
 - **오픈소스/논문 맵**: `docs/sources.md`
