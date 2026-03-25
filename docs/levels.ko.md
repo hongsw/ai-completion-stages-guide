@@ -9,6 +9,7 @@
 ---
 
 ## Level 1. 챗봇 수준
+- 상세 실습 페이지: [level-1-chatbot.ko.md](./levels/level-1-chatbot.ko.md)
 ### 학습 목표
 - LLM과 대화하며 생산성을 높이는 법을 익힌다.
 - 같은 작업이라도 프롬프트에 따라 결과 편차가 큼을 체감한다.
@@ -36,6 +37,7 @@
 ---
 
 ## Level 2. 다중 챗봇 연결 / n8n 자동화 수준
+- 상세 실습 페이지: [level-2-automation.ko.md](./levels/level-2-automation.ko.md)
 ### 학습 목표
 - AI를 업무 흐름 안으로 집어넣는다.
 - 단순 Q&A를 넘어 이벤트 기반 자동화를 체험한다.
@@ -64,6 +66,7 @@
 ---
 
 ## Level 3. 스킬 · 플러그인 · MCP 수준
+- 상세 실습 페이지: [level-3-mcp-tools.ko.md](./levels/level-3-mcp-tools.ko.md)
 ### 학습 목표
 - AI가 외부 툴을 호출해 실제 행동하는 구조를 이해한다.
 - 파일, 검색, API, DB 등과 연결된 AI를 써본다.
@@ -93,6 +96,7 @@
 ---
 
 ## Level 4. 서브 에이전트 팀 수준
+- 상세 실습 페이지: [level-4-subagents.ko.md](./levels/level-4-subagents.ko.md)
 ### 학습 목표
 - 하나의 문제를 여러 역할로 분해하는 법을 익힌다.
 - PM, Research, Writer, Reviewer 같은 구조를 실험한다.
@@ -123,6 +127,7 @@
 ---
 
 ## Level 5. 에이전트 하네스 수준
+- 상세 실습 페이지: [level-5-harness.ko.md](./levels/level-5-harness.ko.md)
 ### 학습 목표
 - 멀티에이전트를 시스템으로 통제하는 법을 배운다.
 - 상태, 입출력, 재시도, 평가, 로그의 중요성을 이해한다.

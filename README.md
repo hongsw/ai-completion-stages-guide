@@ -13,7 +13,7 @@
 
 > 한국어 메인 · 공개 학습 지도 · 레벨별 실습 · 오픈소스 큐레이션 · GitHub Pages 확장 예정
 
-[전체 가이드](./docs/guide.ko.md) | [레벨별 실습 로드맵](./docs/levels.ko.md) | [실습 체크리스트](./docs/checklist.ko.md) | [오픈소스/논문 맵](./docs/sources.md) | [언어 정책](./docs/LANGUAGES.md)
+[전체 가이드](./docs/guide.ko.md) | [레벨별 실습 로드맵](./docs/levels.ko.md) | [Level 1~5 실습 페이지](./docs/levels/) | [실습 체크리스트](./docs/checklist.ko.md) | [오픈소스/논문 맵](./docs/sources.md) | [언어 정책](./docs/LANGUAGES.md)
 
 **Track jump:** [일반인](#1-일반인-트랙) · [직장인](#2-직장인-트랙) · [개발자](#3-개발자-트랙) · [연구자](#4-연구자-트랙) · [공통 병합점](#트랙-간-공통-병합점)
 
