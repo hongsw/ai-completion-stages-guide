@@ -257,16 +257,43 @@
 
 ---
 
-## Level 10. Full LLM / 벤치마크 / 논문 / 서비스 통합 수준
+## Level 10. 시스템 정의형 사용자 수준
 ### 학습 목표
-- 모델 설계, 학습, 평가, 공개 benchmark, 논문, 서비스 통합까지 하나의 루프로 본다.
+- 어떤 인터페이스, 운영 구조, 환경 구성이 더 나은 AI 경험을 만드는지 정의한다.
+- 단순 구현자가 아니라 시스템 설계자로 사고를 확장한다.
 
 ### 실습 포인트
-- 벤치마크 설계 문서 작성
-- 데이터셋/평가 기준표 정리
-- 논문/테크 리포트 형식으로 실험 결과 정리
+- 에이전트/도구/사용자 흐름을 구조도로 재정의해보기
+- "우리 조직/서비스에는 어떤 AI 운영 방식이 맞는가" 문서화하기
+- 멀티모달 인터페이스와 환경화 관점에서 UX 재설계하기
 
 ### 대표 공개 자료
+- Microsoft Agentic AI maturity: <https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/maturity-model-overview>
+- MITRE AI Maturity Model: <https://www.mitre.org/news-insights/publication/mitre-ai-maturity-model-and-organizational-assessment-tool-guide>
+
+### 현재 단계의 불편
+- 잘 만든 시스템은 있어도, 다음 세대 경험을 정의하는 언어가 약할 수 있다
+- 구현은 가능한데 새 기준을 제시하진 못할 수 있다
+
+### 다음 단계의 필요성
+> "우리가 잘 만든 건 맞는데, 아직 frontier를 열었다고 보긴 어렵다."
+
+그래서 **Level 11 프론티어 개척형 사용자** 단계가 필요해진다.
+
+---
+
+## Level 11. 프론티어 개척형 사용자 수준
+### 학습 목표
+- 새로운 AI 상호작용, 멀티모달 환경, 운영체제적 경험, 연구 질문을 개척한다.
+- 기존 레퍼런스를 따라가는 것을 넘어 새로운 기준을 만든다.
+
+### 실습 포인트
+- 아직 널리 정리되지 않은 AI 사용 시나리오를 개념화하기
+- 새로운 benchmark 또는 평가 질문 만들기
+- 실험 결과를 논문/테크 리포트/오픈소스로 공개하기
+
+### 대표 공개 자료
+- Agentic AI review: <https://www.mdpi.com/1999-5903/17/9/404>
 - LLaMA paper: <https://arxiv.org/abs/2302.13971>
 - Meta Llama: <https://ai.meta.com/llama/>
 - Mistral: <https://github.com/mistralai>
@@ -274,7 +301,7 @@
 
 ### 최종 메시지
 이 단계는 단순히 AI를 잘 쓰는 수준이 아니라,
-**지능 시스템을 설계하고, 검증하고, 산업과 연구로 연결하는 수준**이다.
+**지능 시스템의 다음 질서를 제안하고 시험하는 수준**이다.
 
 ---
 
