@@ -13,7 +13,7 @@
 
 > 한국어 메인 · 공개 학습 지도 · 레벨별 실습 · 오픈소스 큐레이션 · GitHub Pages 확장 예정
 
-[전체 가이드](./docs/guide.ko.md) | [레벨별 실습 로드맵](./docs/levels.ko.md) | [Level 1~5 실습 페이지](./docs/levels/) | [실습 체크리스트](./docs/checklist.ko.md) | [오픈소스/논문 맵](./docs/sources.md) | [언어 정책](./docs/LANGUAGES.md)
+[전체 가이드](./docs/guide.ko.md) | [레벨별 실습 로드맵](./docs/levels.ko.md) | [Level 1~5 실습 페이지](./docs/levels/) | [clawfit 연결 문서](./docs/reference-ecosystem.ko.md) | [실습 체크리스트](./docs/checklist.ko.md) | [오픈소스/논문 맵](./docs/sources.md) | [언어 정책](./docs/LANGUAGES.md)
 
 **Track jump:** [일반인](#1-일반인-트랙) · [직장인](#2-직장인-트랙) · [개발자](#3-개발자-트랙) · [연구자](#4-연구자-트랙) · [공통 병합점](#트랙-간-공통-병합점)
 
@@ -428,6 +428,17 @@ flowchart LR
 이 질문이 곧 다음 학습 단계로 넘어가는 문입니다.
 
 ---
+
+## Related reference system
+
+이 저장소의 **11단계는 사용자 성장 단계**입니다.
+반면 [`clawfit/docs/reference-levels.md`](https://github.com/hongsw/clawfit/blob/main/docs/reference-levels.md)는 **비교/벤치마크/생태계 참조 레벨**입니다.
+
+둘은 같은 숫자 체계가 아니라 서로를 보완합니다.
+- 성장 단계: 사용자가 어디까지 왔는가
+- 참조 레벨: 무엇과 비교하고 무엇을 참고해야 하는가
+
+자세한 연결 설명은 [`docs/reference-ecosystem.ko.md`](./docs/reference-ecosystem.ko.md) 참조.
 
 ## Quick navigation
 
