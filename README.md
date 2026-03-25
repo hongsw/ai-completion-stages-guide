@@ -1,5 +1,12 @@
 # 인공지능 완성형 활용단계 소개 가이드
 
+[![Main Language](https://img.shields.io/badge/main-korean-blue)](./docs/guide.ko.md)
+[![Secondary Language](https://img.shields.io/badge/secondary-english-555)](./docs/guide.en.md)
+[![Stages](https://img.shields.io/badge/stages-11-success)](./docs/guide.ko.md)
+[![Docs](https://img.shields.io/badge/docs-active-brightgreen)](./docs/guide.ko.md)
+[![Translations](https://img.shields.io/badge/translations-10-orange)](./docs/LANGUAGES.md)
+[![GitHub Pages](https://img.shields.io/badge/github%20pages-planned-purple)](./docs/LANGUAGES.md)
+
 [한국어](./docs/guide.ko.md) · [English](./docs/guide.en.md) · [中文](./i18n/zh/README.md) · [हिन्दी](./i18n/hi/README.md) · [Español](./i18n/es/README.md) · [Français](./i18n/fr/README.md) · [العربية](./i18n/ar/README.md) · [বাংলা](./i18n/bn/README.md) · [Português](./i18n/pt/README.md) · [Русский](./i18n/ru/README.md)
 
 > 도구 사용을 넘어, 에이전트 문명으로 가는 11단계
@@ -7,6 +14,8 @@
 > 한국어 메인 · 공개 학습 지도 · 레벨별 실습 · 오픈소스 큐레이션 · GitHub Pages 확장 예정
 
 [전체 가이드](./docs/guide.ko.md) | [레벨별 실습 로드맵](./docs/levels.ko.md) | [실습 체크리스트](./docs/checklist.ko.md) | [오픈소스/논문 맵](./docs/sources.md) | [언어 정책](./docs/LANGUAGES.md)
+
+**Track jump:** [일반인](#1-일반인-트랙) · [직장인](#2-직장인-트랙) · [개발자](#3-개발자-트랙) · [연구자](#4-연구자-트랙) · [공통 병합점](#트랙-간-공통-병합점)
 
 이 저장소는 단순한 링크 모음이 아닙니다.
 이것은 **일반인, 실무자, 창업자, 연구자**가 AI를 어떻게 단계적으로 익히고,
