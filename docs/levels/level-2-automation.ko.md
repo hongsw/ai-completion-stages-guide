@@ -17,6 +17,10 @@ AI를 반복 업무 흐름 안에 넣어 자동으로 실행되게 만드는 단
 단순 연결만으로는 복잡한 일을 처리하기 어렵습니다.
 AI가 파일, 웹, API 등 외부 도구를 직접 다뤄야 합니다.
 
+## 관련 clawfit reference level
+- **Reference Level 2 — Workflow wrappers and orchestration tools**
+  - 자동화, 래퍼, 원격 실행, 오케스트레이션 감각을 익히는 데 직접 연결됩니다.
+
 ## 추천 공개 자료
 - n8n: <https://github.com/n8n-io/n8n>
 - n8n Docs: <https://github.com/n8n-io/n8n-docs>

@@ -20,6 +20,12 @@
 **에이전트 운영체계를 설계한다**는 차원으로 올라갑니다.
 창업자 관점에서는 이 단계가 매우 중요합니다.
 
+## 관련 clawfit reference level
+- **Reference Level 2 — Workflow wrappers and orchestration tools**
+  - 실제 실행 통제와 orchestration 관점의 기반입니다.
+- **Reference Level 3 — Architecture and benchmark references**
+  - 하네스, 추상화 계층, benchmark 설계 사고를 깊게 만들어줍니다.
+
 ## 추천 공개 자료
 - harness-100: <https://github.com/revfactory/harness-100>
 - LangGraph: <https://github.com/langchain-ai/langgraph>

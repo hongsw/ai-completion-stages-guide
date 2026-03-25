@@ -17,6 +17,12 @@
 에이전트 팀이 있다고 곧 시스템이 되는 것은 아닙니다.
 재현성과 운영 통제가 필요합니다.
 
+## 관련 clawfit reference level
+- **Reference Level 2 — Workflow wrappers and orchestration tools**
+  - 여러 실행 흐름을 감싸는 래퍼/오케스트레이션 감각과 연결됩니다.
+- **Reference Level 3 — Architecture and benchmark references**
+  - 멀티에이전트 구조, 추상화 계층, benchmark 관점이 여기서 중요해집니다.
+
 ## 추천 공개 자료
 - AutoGen: <https://github.com/microsoft/autogen>
 - CrewAI: <https://github.com/crewAIInc/crewAI>

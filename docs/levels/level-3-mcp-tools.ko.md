@@ -18,6 +18,10 @@ AI가 파일, 검색, API, 데이터베이스 등 외부 도구를 호출하며 
 툴을 잘 쓰는 것과 팀처럼 일하는 것은 다릅니다.
 복잡한 문제는 역할을 나누어야 합니다.
 
+## 관련 clawfit reference level
+- **Reference Level 4 — Memory, context, MCP, and plugin ecosystem**
+  - MCP, memory, plugin, context 호환성 생태계를 이해하는 핵심 참조 층위입니다.
+
 ## 추천 공개 자료
 - MCP Org: <https://github.com/modelcontextprotocol>
 - MCP Spec: <https://github.com/modelcontextprotocol/modelcontextprotocol>

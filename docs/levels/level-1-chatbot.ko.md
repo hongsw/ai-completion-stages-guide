@@ -19,6 +19,12 @@ LLM과 대화하며 생산성을 높이는 가장 기초적인 단계입니다.
 챗봇은 똑똑하지만, 아직 업무 흐름 안에서 자동으로 움직이지 않습니다.
 그래서 자동화가 필요해집니다.
 
+## 관련 clawfit reference level
+- **Reference Level 1 — Core comparison targets**
+  - 지금 시장에서 많이 쓰이는 대표 도구들을 감 잡는 데 유용합니다.
+- **Reference Level 6 — Productivity, input, and human-agent interface tools**
+  - 음성 입력, 인터페이스, 실제 사용감 같은 요소를 체감하는 데 연결됩니다.
+
 ## 추천 공개 자료
 - Awesome LLM Apps: <https://github.com/Shubhamsaboo/awesome-llm-apps>
 - Awesome-LLM: <https://github.com/Hannibal046/Awesome-LLM>
