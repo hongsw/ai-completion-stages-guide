@@ -1,11 +1,27 @@
 # 인공지능 완성형 활용단계 소개 가이드
 
-> 도구 사용을 넘어, 에이전트 문명으로 가는 10단계
+[한국어](./docs/guide.ko.md) · [English](./docs/guide.en.md) · [中文](./i18n/zh/README.md) · [हिन्दी](./i18n/hi/README.md) · [Español](./i18n/es/README.md) · [Français](./i18n/fr/README.md) · [العربية](./i18n/ar/README.md) · [বাংলা](./i18n/bn/README.md) · [Português](./i18n/pt/README.md) · [Русский](./i18n/ru/README.md)
+
+> 도구 사용을 넘어, 에이전트 문명으로 가는 11단계
+
+> 한국어 메인 · 공개 학습 지도 · 레벨별 실습 · 오픈소스 큐레이션 · GitHub Pages 확장 예정
+
+[전체 가이드](./docs/guide.ko.md) | [레벨별 실습 로드맵](./docs/levels.ko.md) | [실습 체크리스트](./docs/checklist.ko.md) | [오픈소스/논문 맵](./docs/sources.md) | [언어 정책](./docs/LANGUAGES.md)
 
 이 저장소는 단순한 링크 모음이 아닙니다.
 이것은 **일반인, 실무자, 창업자, 연구자**가 AI를 어떻게 단계적으로 익히고,
 각 단계의 한계를 몸으로 느끼며,
 **왜 다음 단계가 필요한지 자연스럽게 이해하도록 설계된 공개 학습 지도**입니다.
+
+## At a glance
+
+- **Main language:** Korean
+- **Secondary language:** English
+- **Format:** Curated guide + practice roadmap + repository map
+- **Audience:** 일반인 / 직장인 / 개발자 / 연구자 / 창업자
+- **Goal:** 각 단계의 불편을 이해하고 다음 단계의 필요성을 체감하기
+- **Top-level model:** 11-stage AI maturity path
+- **Style reference:** awesome-* 오픈소스 리포처럼 빠르게 훑고 바로 들어갈 수 있는 랜딩형 README
 
 우리의 목표는 하나입니다.
 
@@ -404,14 +420,21 @@ flowchart LR
 
 ---
 
-## 문서 구조
+## Quick navigation
 
-- **처음 보는 사람**: `docs/guide.ko.md`
-- **영문 독자**: `docs/guide.en.md`
-- **레벨별 실습 로드맵**: `docs/levels.ko.md`
-- **실습 체크리스트**: `docs/checklist.ko.md`
-- **오픈소스/논문 맵**: `docs/sources.md`
-- **언어별 번역 진입점**: `docs/LANGUAGES.md`
+### Core docs
+- **처음 보는 사람**: [`docs/guide.ko.md`](./docs/guide.ko.md)
+- **영문 독자**: [`docs/guide.en.md`](./docs/guide.en.md)
+- **레벨별 실습 로드맵**: [`docs/levels.ko.md`](./docs/levels.ko.md)
+- **실습 체크리스트**: [`docs/checklist.ko.md`](./docs/checklist.ko.md)
+- **오픈소스/논문 맵**: [`docs/sources.md`](./docs/sources.md)
+- **언어별 번역 진입점**: [`docs/LANGUAGES.md`](./docs/LANGUAGES.md)
+
+### By track
+- 일반인 트랙: README 내 Mermaid 경로 참조
+- 직장인 트랙: README 내 Mermaid 경로 참조
+- 개발자 트랙: README 내 Mermaid 경로 참조
+- 연구자 트랙: README 내 Mermaid 경로 참조
 
 ---
 
